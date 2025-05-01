@@ -42,6 +42,8 @@ rotation = -0.370871
 metadata/_edit_group_ = true
 
 [node name="PathFollow2D" parent="Node/Banana/Path2D" index="0"]
+position = Vector2(4881.96, 3197.76)
+rotation = -1.21626
 metadata/_edit_group_ = true
 
 [node name="Camera2D" parent="." instance=ExtResource("4_dwuy1")]
