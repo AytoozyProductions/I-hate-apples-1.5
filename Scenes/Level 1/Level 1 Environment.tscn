@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://dnm1byheer17k"]
 
 [ext_resource type="TileSet" uid="uid://dhbf6h253f737" path="res://Sprites/Tiles and Tilemap/tileset.tres" id="1_invj8"]
-[ext_resource type="Script" path="res://Scenes/Level 1/add_top_shelf.gd" id="2_x7wox"]
+[ext_resource type="Script" uid="uid://df5ykysjt7ngs" path="res://Scenes/Level 1/add_top_shelf.gd" id="2_x7wox"]
 
 [node name="Level1Environment" type="TileMap"]
 tile_set = ExtResource("1_invj8")

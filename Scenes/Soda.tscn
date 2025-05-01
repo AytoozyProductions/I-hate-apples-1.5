@@ -1,7 +1,7 @@
 [gd_scene load_steps=26 format=3 uid="uid://68qhucqsqcuf"]
 
 [ext_resource type="Texture2D" uid="uid://dkrdg3fupaale" path="res://Sprites/Soda Sprite Sheet.png" id="1_6sjmv"]
-[ext_resource type="Script" path="res://Scripts/Soda.gd" id="1_te0re"]
+[ext_resource type="Script" uid="uid://dxrsqukaspuxc" path="res://Scripts/Soda.gd" id="1_te0re"]
 [ext_resource type="Texture2D" uid="uid://dd5l4o0wbxglw" path="res://Sprites/Smoke Animation/2nd/1.png" id="2_qdts4"]
 [ext_resource type="Texture2D" uid="uid://cb8n8k0hsc0lm" path="res://Sprites/Smoke Animation/2nd/2.png" id="3_jfr1t"]
 [ext_resource type="Texture2D" uid="uid://chq8nlr1wptv1" path="res://Sprites/Smoke Animation/2nd/3.png" id="4_xhut0"]

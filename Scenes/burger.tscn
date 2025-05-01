@@ -1,6 +1,6 @@
 [gd_scene load_steps=17 format=3 uid="uid://d0gk75tonw18v"]
 
-[ext_resource type="Script" path="res://Scenes/burger.gd" id="1_pdn3q"]
+[ext_resource type="Script" uid="uid://dhwwuek5dqe5d" path="res://Scenes/burger.gd" id="1_pdn3q"]
 [ext_resource type="Texture2D" uid="uid://7nxa7qkdflyr" path="res://Sprites/burger sprite sheet.png" id="1_wcuo1"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_s050x"]
