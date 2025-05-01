@@ -1,6 +1,7 @@
-[gd_scene load_steps=9 format=4 uid="uid://dabbc0mitqp1s"]
+[gd_scene load_steps=10 format=4 uid="uid://dabbc0mitqp1s"]
 
 [ext_resource type="PackedScene" uid="uid://dnm1byheer17k" path="res://Scenes/Level 1/Level 1 Environment.tscn" id="1_lwmsf"]
+[ext_resource type="Script" uid="uid://bswy5hsk1px6u" path="res://Scenes/Levels/level_6.gd" id="1_t7wyy"]
 [ext_resource type="PackedScene" uid="uid://ftadpvplkegh" path="res://Scenes/player.tscn" id="2_xwsul"]
 [ext_resource type="PackedScene" uid="uid://ibr5lnrt55td" path="res://Scenes/camera_2d.tscn" id="4_dwuy1"]
 [ext_resource type="PackedScene" uid="uid://dxbg8j581t76o" path="res://Scenes/apple_enemy.tscn" id="5_svmt5"]
@@ -18,6 +19,7 @@ data = PackedByteArray("//uQBAAP8AAAaQAAAAgAAA0gAAABAAABpAAAACAAADSAAAAETEFNRQMA
 loop = true
 
 [node name="Level6" type="Node2D"]
+script = ExtResource("1_t7wyy")
 
 [node name="NavigationRegion2D" type="NavigationRegion2D" parent="."]
 navigation_polygon = SubResource("NavigationPolygon_tmait")
